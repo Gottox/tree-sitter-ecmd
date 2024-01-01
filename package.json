@@ -1,0 +1,9 @@
+{
+  "name": "tree-sitter-ecmd",
+  "version": "0.0.0",
+  "dependencies": {
+    "nan": "^2.18.0",
+    "tree-sitter-json": "github:tree-sitter/tree-sitter-json#3fef30d"
+  },
+  "main": "bindings/node"
+}
